@@ -31,6 +31,6 @@ I hope it's useful for all students that need them.
 + [Session3](https://drive.google.com/drive/folders/1scRpKcn4Pj80lxA2yGhdwBsEeoLtgAUm?usp=sharing)
 + [Session4](https://drive.google.com/drive/folders/1H2eGtn0cPF13c6urQsWdDTR8cg5zXpZl?usp=sharing)
 + [Session5](https://drive.google.com/drive/folders/1WT-ax5iaqte5HwJMicJUWcyY_KNap0Sa?usp=sharing)
-+ [Session6](https://drive.google.com/drive/folders/1nhvRT_XsUJ9gjmE0Bs05TYiwAF-dEFwe?usp=sharing)
++ [Session6](https://drive.google.com/drive/folders/1l04p-6A7PBA4xTFPShLyfsS2kQgaVuyl?usp=sharing)
 + [Session7](https://drive.google.com/drive/folders/1nhvRT_XsUJ9gjmE0Bs05TYiwAF-dEFwe?usp=sharing)
 + [Session8](https://drive.google.com/drive/folders/1XCJk18dinQlU1J3VIxskVPHk5chwAtgM?usp=sharing)
