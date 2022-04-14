@@ -1,6 +1,6 @@
 # Introduction
 This course is about MATLAB application in linear control systems.
-In 2021, I turned my studies in the field of MATLAB applications in the course of linear control systems into an educational video and published them for free on this date(14 April 2022), in this repository.
+In 2021, I converted my studies in the field of MATLAB applications in the course of linear control systems into an educational video and published them for free on this date(14 April 2022), in this repository.
 
 This course can be used for Bachelor of Science students of electrical and control engineering and everyone who are interested in learning MATLAB.
 
