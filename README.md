@@ -25,7 +25,7 @@ I hope it's useful for all students that need them.
 
 **NOTE** : *If you need the answers file of the projects file, you can send an [email](https://github.com/FtmsdtHosseini) to me or send me a message on [LinkedIn](https://www.linkedin.com/in/fatemesadat-hosseini/).*
 
-# Sessions links
+# Download links
 [Session1](https://drive.google.com/drive/folders/1Pia_jeDKNjSQ6z1Q6mwYUO-jI-GSlFBA?usp=sharing)
 
 [Session2](https://drive.google.com/drive/folders/1FHRp3dS38zZgm-OVR4SKMX8YFbnHLM3a?usp=sharing)
