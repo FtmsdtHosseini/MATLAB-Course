@@ -24,3 +24,20 @@ I hope it's useful for all students that need them.
 + Project related to each session in PDF format
 
 **NOTE** : *If you need the answers file of the projects file, you can send an [email](https://github.com/FtmsdtHosseini) to me or send me a message on [LinkedIn](https://www.linkedin.com/in/fatemesadat-hosseini/).*
+
+# Sessions links
+[Session1](https://drive.google.com/drive/folders/1Pia_jeDKNjSQ6z1Q6mwYUO-jI-GSlFBA?usp=sharing)
+
+[Session2](https://drive.google.com/drive/folders/1FHRp3dS38zZgm-OVR4SKMX8YFbnHLM3a?usp=sharing)
+
+[Session3](https://drive.google.com/drive/folders/1scRpKcn4Pj80lxA2yGhdwBsEeoLtgAUm?usp=sharing)
+
+[Session4](https://drive.google.com/drive/folders/1H2eGtn0cPF13c6urQsWdDTR8cg5zXpZl?usp=sharing)
+
+[Session5](https://drive.google.com/drive/folders/1WT-ax5iaqte5HwJMicJUWcyY_KNap0Sa?usp=sharing)
+
+[Session6](https://drive.google.com/drive/folders/1l04p-6A7PBA4xTFPShLyfsS2kQgaVuyl?usp=sharing)
+
+[Session7](https://drive.google.com/drive/folders/1nhvRT_XsUJ9gjmE0Bs05TYiwAF-dEFwe?usp=sharing)
+
+[Session8](https://drive.google.com/drive/folders/1XCJk18dinQlU1J3VIxskVPHk5chwAtgM?usp=sharing)
