@@ -23,6 +23,8 @@ I hope it's useful for all students that need them.
 + Codes
 + Project related to each session in PDF format
 
+**Cost** = The cost of using the videos 14 Salavat for the health of Imam Zaman (Haste of Allah the Highest)
+
 **NOTE** : *If you need the answers file of the projects file, you can send an [email](https://github.com/FtmsdtHosseini) to me or send me a message on [LinkedIn](https://www.linkedin.com/in/fatemesadat-hosseini/).*
 
 # :inbox_tray: Download links
